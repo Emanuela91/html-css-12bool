@@ -1,4 +1,15 @@
 [class*="col"]{
     background-color: blue;
-    margin: 2px;
+    border: 1px solid white;
+    min-height: 35px;
+}
+
+.row .col-6.green{
+    display: flex;
+    padding: 5px;
+}
+
+.col-6.green .col-2{
+    background-color: green;
+    border: 1px solid blue;
 }
