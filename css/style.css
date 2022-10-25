@@ -12,4 +12,20 @@
 .col-6.green .col-2{
     background-color: green;
     border: 1px solid blue;
+    color:white;
+    text-align: center;
+}
+
+.col-6.green .col-8{
+    background-color: green;
+    border: 1px solid blue;
+    color:white;
+    text-align: center;
+}
+
+.col-6.green .col-6{
+    background-color: green;
+    border: 1px solid blue;
+    color:white;
+    text-align: center;
 }
